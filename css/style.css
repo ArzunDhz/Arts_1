@@ -1,0 +1,73 @@
+/* main section */
+
+.body{
+  background-color: #D8E3E7;
+
+}
+
+
+
+
+.pink-block{
+  padding: 10%;
+  background-color: #FF616D;
+}
+.main-heading{
+  text-align: center;
+  font-family: "Montserrat";
+  font-size: 7rem;
+  color: white;
+  position: relative;
+  top:100px;
+}
+ /* sub headings */
+ .sub-heading{
+   text-align: center;
+   font-family: "Montserrat";
+   font-size: 3rem;
+   color: black;
+   padding-top:10rem;
+   padding-bottom: 5rem;
+ }
+
+                                         /* carouse  */
+.carousel-inner{
+  padding: 0;
+  text-align: center;
+  background-color: black;
+}
+
+#carouselExampleControlsB,#carouselExampleControls,#carouselExampleControlsA{
+  background-color: #D8E3E7;
+  padding:5%;
+}
+
+#carouselExampleControlsC{
+  background-color: #D8E3E7;
+  padding:5%;
+}
+.hand-art-img{
+  width: 25%;
+  height:25%;
+}
+.insidecontributor{
+  padding: 0;
+  text-align: center;
+  background-color: white;
+}
+
+
+           /* footer */
+
+   .fottericons{
+     padding: 20px;
+
+   }
+   .footericonsection{
+     text-align: center;
+   }
+
+   .fottericons:hover{
+     color: red;
+
+   }
